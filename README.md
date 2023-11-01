@@ -1,3 +1,4 @@
+Task 1:
 # Crypto Currency API Project
 
 This project is a web application built using NextJs and Reactjs components.
